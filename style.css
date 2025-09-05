@@ -4,3 +4,7 @@ color:red
 header,footer{
     color: blue;
 }
+section{
+    color: green;
+    background-color: yellow;
+}
